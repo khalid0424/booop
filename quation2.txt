@@ -1,0 +1,4 @@
+### 2 Question
+What are getter and setter and how to use them? Write about properties in python.
+Getter ва setter чист ва чӣ тавр онҳоро истифода мебарем? Дар бораи хусусиятҳо(properties) дар python нависед.
+
